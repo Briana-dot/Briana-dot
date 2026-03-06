@@ -67,6 +67,6 @@ Excel
 
 ## 🤝 Connect With Me
 
-LinkedIn: (add later)
+LinkedIn: https://www.linkedin.com/in/brian-midiwo
 
 Portfolio: Coming Soon
