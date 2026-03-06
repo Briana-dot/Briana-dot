@@ -70,3 +70,6 @@ Excel
 LinkedIn: https://www.linkedin.com/in/brian-midiwo
 
 Portfolio: Coming Soon
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Briana-dot/Briana-dot/blob/output/github-contribution-grid-snake.svg)
