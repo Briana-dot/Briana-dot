@@ -1,58 +1,72 @@
-# Hi 👋 I'm Brian Midiwo
+<h1 align="center">Hi 👋, I'm Brian Midiwo</h1>
 
-💻 Aspiring Software Engineer  
-📊 Data Entry & Data Analysis Enthusiast  
-🔧 Automotive Engineering Student  
+<h3 align="center">💻 Future Software Engineer | Data Enthusiast | Automotive Engineering Student</h3>
 
----
-
-## 🚀 About Me
-
-- 🎓 Studying Automotive Engineering
-- 💻 Learning Software Engineering
-- 📊 Skilled in Excel and Data Entry
-- 🌍 Based in Kenya
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Future+Software+Engineer;Python+Learner;Building+Real+Projects;Always+Learning+New+Tech">
+</p>
 
 ---
 
-## 🧠 Currently Learning
+## 👨‍💻 About Me
 
-- Python Programming
-- Git & GitHub
-- Web Development
-- Data Analysis
-
----
-
-## 🛠 Skills
-
-- Microsoft Excel
-- Data Entry
-- Python Basics
-- Git & GitHub
-- HTML & CSS
+- 🔭 Currently learning **Software Engineering**
+- 💻 Practicing **Python, Git, and Web Development**
+- 📊 Skilled in **Excel and Data Entry**
+- 🎓 Student of **Automotive Engineering**
+- 🌍 Based in **Kenya**
 
 ---
 
-## 📂 My Projects
+## 🚀 My Projects
 
-🔐 Secret Vault (Python security tool)
+🔐 Secret Vault (Python Security Tool)
 
-🔑 Password Generator (Python CLI tool)
+🔑 Password Generator (Python CLI Tool)
 
-🌐 Personal Portfolio Website
+🌐 Portfolio Website
+
+📂 Git Practice Repository
 
 ---
 
-## 📫 Connect With Me
+## 🛠 Tech Stack
 
-LinkedIn: https://www.linkedin.com/in/brian-midiwo
+Python  
+Git  
+GitHub  
+HTML  
+CSS  
+Excel  
 
-Portfolio: Coming Soon
+---
+
 ## 📊 GitHub Stats
 
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Briana-dot&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Briana-dot&show_icons=true&theme=chartreuse-dark)
+
+---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Briana-dot&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Briana-dot&theme=chartreuse-dark)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Briana-dot&layout=compact&theme=chartreuse-dark)
+
+---
+
+## 👀 Profile Visitors
+
+![](https://komarev.com/ghpvc/?username=Briana-dot&color=brightgreen)
+
+---
+
+## 🤝 Connect With Me
+
+LinkedIn: (add later)
+
+Portfolio: Coming Soon
