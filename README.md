@@ -49,3 +49,10 @@
 LinkedIn: https://www.linkedin.com/in/brian-midiwo
 
 Portfolio: Coming Soon
+## 📊 GitHub Stats
+
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Briana-dot&show_icons=true&theme=radical)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Briana-dot&theme=radical)
