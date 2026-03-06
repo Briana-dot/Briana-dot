@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋 I'm Brian Midiwo
 
-<!--
-**Briana-dot/Briana-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Engineer  
+📊 Data Entry & Data Analysis Enthusiast  
+🔧 Automotive Engineering Student  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Studying Automotive Engineering
+- 💻 Learning Software Engineering
+- 📊 Skilled in Excel and Data Entry
+- 🌍 Based in Kenya
+
+---
+
+## 🧠 Currently Learning
+
+- Python Programming
+- Git & GitHub
+- Web Development
+- Data Analysis
+
+---
+
+## 🛠 Skills
+
+- Microsoft Excel
+- Data Entry
+- Python Basics
+- Git & GitHub
+- HTML & CSS
+
+---
+
+## 📂 My Projects
+
+🔐 Secret Vault (Python security tool)
+
+🔑 Password Generator (Python CLI tool)
+
+🌐 Personal Portfolio Website
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/brian-midiwo
+
+Portfolio: Coming Soon
