@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brian Midiwo</h1>
 
-<h3 align="center">💻 Future Software Engineer | Data Enthusiast | Automotive Engineering Student</h3>
+<h3 align="center">Builder of Real-World Business Systems | Data Enthusiast | Automotive Engineering Student</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Future+Software+Engineer;Python+Learner;Building+Real+Projects;Always+Learning+New+Tech">
@@ -10,8 +10,8 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently learning **Software Engineering**
-- 💻 Practicing **Python, Git, and Web Development**
+- 🔭 Currently building practical **software projects**
+- 💻 Practicing **Software Engineering Best Practices**
 - 📊 Skilled in **Excel and Data Entry**
 - 🎓 Student of **Automotive Engineering**
 - 🌍 Based in **Kenya**
@@ -20,24 +20,21 @@
 
 ## 🚀 My Projects
 
-🔐 Secret Vault (Python Security Tool)
-
-🔑 Password Generator (Python CLI Tool)
-
-🌐 Portfolio Website
-
-📂 Git Practice Repository
+Garage Management System
 
 ---
 
 ## 🛠 Tech Stack
 
-Python  
-Git  
-GitHub  
-HTML  
-CSS  
-Excel  
+PHP
+MySQL
+JavaScript
+HTML5
+CSS3
+Python
+Git
+GitHub
+Microsoft Excel 
 
 ---
 
